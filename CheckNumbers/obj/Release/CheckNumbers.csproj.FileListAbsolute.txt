@@ -1,0 +1,13 @@
+c:\Users\DžordžsBārens\Documents\Visual Studio 2015\Projects\CheckNumbers\CheckNumbers\bin\Release\CheckNumbers.exe.config
+c:\Users\DžordžsBārens\Documents\Visual Studio 2015\Projects\CheckNumbers\CheckNumbers\bin\Release\CheckNumbers.exe
+c:\Users\DžordžsBārens\Documents\Visual Studio 2015\Projects\CheckNumbers\CheckNumbers\bin\Release\CheckNumbers.pdb
+c:\Users\DžordžsBārens\Documents\Visual Studio 2015\Projects\CheckNumbers\CheckNumbers\obj\Release\MainWindow.g.cs
+c:\Users\DžordžsBārens\Documents\Visual Studio 2015\Projects\CheckNumbers\CheckNumbers\obj\Release\App.g.cs
+c:\Users\DžordžsBārens\Documents\Visual Studio 2015\Projects\CheckNumbers\CheckNumbers\obj\Release\CheckNumbers_MarkupCompile.cache
+c:\Users\DžordžsBārens\Documents\Visual Studio 2015\Projects\CheckNumbers\CheckNumbers\obj\Release\CheckNumbers_MarkupCompile.lref
+c:\Users\DžordžsBārens\Documents\Visual Studio 2015\Projects\CheckNumbers\CheckNumbers\obj\Release\MainWindow.baml
+c:\Users\DžordžsBārens\Documents\Visual Studio 2015\Projects\CheckNumbers\CheckNumbers\obj\Release\CheckNumbers.g.resources
+c:\Users\DžordžsBārens\Documents\Visual Studio 2015\Projects\CheckNumbers\CheckNumbers\obj\Release\CheckNumbers.Properties.Resources.resources
+c:\Users\DžordžsBārens\Documents\Visual Studio 2015\Projects\CheckNumbers\CheckNumbers\obj\Release\CheckNumbers.csproj.GenerateResource.Cache
+c:\Users\DžordžsBārens\Documents\Visual Studio 2015\Projects\CheckNumbers\CheckNumbers\obj\Release\CheckNumbers.exe
+c:\Users\DžordžsBārens\Documents\Visual Studio 2015\Projects\CheckNumbers\CheckNumbers\obj\Release\CheckNumbers.pdb

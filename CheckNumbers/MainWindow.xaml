@@ -1,0 +1,23 @@
+﻿<Window x:Class="CheckNumbers.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckNumbers"
+        mc:Ignorable="d"
+        Title="Check Numbers" Height="350" Width="350">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Viewbox Stretch="Uniform" Grid.Row="0">
+            <ListBox x:Name="listBox" BorderThickness="0"/>
+        </Viewbox>
+        <StackPanel Orientation="Horizontal" Height="Auto" Grid.Row="1" FocusManager.FocusedElement="{Binding ElementName=textBoxNumber}">
+            <Button Name="buttonSort" Margin="5" Click="buttonSort_Click" ToolTip="Sort items in the list" >Sort</Button>
+            <Button Name="buttonClear" Margin="5" Click="buttonClear_Click" ToolTip="Clear all items from the list">Clear</Button>
+            <TextBox Name="textBoxNumber" Margin="5" Width="250" KeyDown="textBoxNumber_KeyDown"></TextBox>
+        </StackPanel>
+    </Grid>
+</Window>
